@@ -6,9 +6,9 @@ This project features a custom-built 2-wheeled differential-drive robot designed
 
 ## 🛠 Project Summary
 
-- **CAD to Simulation**: Fusion 360 → STEP → Mesh (.stl/.dae) → URDF (.xacro)
+- **CAD to Simulation**: Fusion 360 → Mesh (.stl) → URDF (.xacro)
 - **Simulation Platform**: Gazebo Classic (with ROS 2 integration)
-- **ROS Distro**: ROS 2 Humble Hawksbill
+- **ROS Distro**: ROS 2 Humble
 - **Package**: `ros2_bot_description`
 
 ---
